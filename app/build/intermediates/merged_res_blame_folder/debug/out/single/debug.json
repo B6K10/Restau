@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_activity_demarrage.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/activity_demarrage.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.restau.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_img4.jpg.flat",
+        "source": "com.example.restau.app-main-35:/drawable/img4.jpg"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/menu_bottom_navigation_bar.xml.flat",
+        "source": "com.example.restau.app-main-35:/menu/bottom_navigation_bar.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-ldpi_logo.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-ldpi_bg.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-ldpi/bg.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_fragment_setting.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_img1.jpg.flat",
+        "source": "com.example.restau.app-main-35:/drawable/img1.jpg"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_account_box_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_account_box_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-hdpi_bg.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_img3.jpg.flat",
+        "source": "com.example.restau.app-main-35:/drawable/img3.jpg"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_fragment_profile.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_juice_item.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/juice_item.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_phone_android_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_phone_android_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-xxxhdpi_logo.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-xhdpi_logo.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_fragment_home.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_fragment_card.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/fragment_card.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-xhdpi_bg.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-xhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable__edit_text_bg.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/_edit_text_bg.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-xxhdpi_bg.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-xxhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_btn_background.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/btn_background.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.restau.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-hdpi_logo.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_add_shopping_cart_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_activity_register.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "com.example.restau.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-xxxhdpi_bg.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-xxxhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.restau.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_baseline_shopping_basket_24.xml.flat",
+        "source": "com.example.restau.app-main-35:/drawable/baseline_shopping_basket_24.xml"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-mdpi_bg.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-mdpi/bg.png"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable_img2.jpg.flat",
+        "source": "com.example.restau.app-main-35:/drawable/img2.jpg"
+    },
+    {
+        "merged": "com.example.restau.app-merged_res-33:/drawable-mdpi_logo.png.flat",
+        "source": "com.example.restau.app-main-35:/drawable-mdpi/logo.png"
+    }
+]

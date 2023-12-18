@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="orange">#F2B320</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="h16">16dp</dimen>
+    <dimen name="h20">20dp</dimen>
+    <dimen name="h23">23dp</dimen>
+    <dimen name="h25">25dp</dimen>
+    <dimen name="h30">30dp</dimen>
+    <dimen name="h35">35dp</dimen>
+    <dimen name="h40">40dp</dimen>
+    <dimen name="h45">45dp</dimen>
+    <dimen name="h50">50dp</dimen>
+    <string name="amount">Amount</string>
+    <string name="app_name">JuiceHolder</string>
+    <string name="basket">Basket</string>
+    <string name="element">Element</string>
+    <string name="email">Email</string>
+    <string name="fruit_juice">Fruit juice</string>
+    <string name="gcm_defaultSenderId" translatable="false">963431384412</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAwvUWfhGa1Ej09tT2k5rqzRLNT0dwbw4</string>
+    <string name="google_app_id" translatable="false">1:963431384412:android:aa7fb2540b674d1f0dad99</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAwvUWfhGa1Ej09tT2k5rqzRLNT0dwbw4</string>
+    <string name="google_storage_bucket" translatable="false">appmo-7a9d0.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="juice">Juice</string>
+    <string name="login">Login</string>
+    <string name="order">Order</string>
+    <string name="ordering">Ordering fruits</string>
+    <string name="phone_number">Phone number</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">appmo-7a9d0</string>
+    <string name="register">Register</string>
+    <string name="setting">Setting</string>
+    <string name="show_list">Show the list</string>
+    <string name="the_most_ord">The most ordered</string>
+    <string name="total">Total</string>
+    <string name="user_name">Username</string>
+    <style name="Base.Theme.Restau" parent="Theme.MaterialComponents.DayNight">
+        
+        
+        <item name="colorPrimary">#F2B320</item>
+        <item name="colorPrimaryVariant">#FFEB3B</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+
+        <item name="colorSecondary">#FFEB3B</item>
+        <item name="colorSecondaryVariant">#AFB42B</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+    </style>
+    <style name="Theme.Restau" parent="Base.Theme.Restau"/>
+</resources>

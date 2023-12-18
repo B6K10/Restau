@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/juice_item.xml",
+        "source": "com.example.restau.app-main-34:/layout/juice_item.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/activity_main.xml",
+        "source": "com.example.restau.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/activity_register.xml",
+        "source": "com.example.restau.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/activity_login.xml",
+        "source": "com.example.restau.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/activity_demarrage.xml",
+        "source": "com.example.restau.app-main-34:/layout/activity_demarrage.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/fragment_setting.xml",
+        "source": "com.example.restau.app-main-34:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/fragment_home.xml",
+        "source": "com.example.restau.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/fragment_profile.xml",
+        "source": "com.example.restau.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.restau.app-mergeReleaseResources-32:/layout/fragment_card.xml",
+        "source": "com.example.restau.app-main-34:/layout/fragment_card.xml"
+    }
+]
